@@ -1,0 +1,65 @@
+<style type ="text/css">
+
+#form1{
+
+	font-size:large;
+	font-family:sans-serif;	
+	font-font-style:normal;
+	
+	text-indent:30x;
+	text-align:center;
+
+}
+
+#form2{
+
+	font-size:large;
+	font-family:sans-serif;	
+	font-font-style:normal;
+	
+	text-indent:100x;
+	padding-left: 660px;
+   
+}
+
+#form3{
+
+	font-size:25px;
+	font-family:sans-serif;	
+	font-font-style:normal;
+	
+	text-indent:30x;
+	text-align:center;
+}
+
+#header{
+	font-size:30px;
+	background-color: green;
+	color: white;
+	text-align:center;	
+	padding:30px;
+	font-family:fantasy;
+	}
+#menu{
+	font-size:25px;
+	font-family:sans-serif;	
+	font-font-style:normal;
+	
+	text-indent:30x;
+	text-align:center;
+}
+#form4 {
+position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: green;
+   color: white;
+   text-align: center;
+}
+
+body{
+	background-color:#FFFFFFFF;
+}
+
+</style>
